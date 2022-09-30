@@ -1,7 +1,7 @@
-TypeScript React "unstated-next" Demo
+TypeScript React "unstated-next" Test Demo
 =================================
 
-使用 unstated-next 来管理状态
+使用 unstated-next 时如何写测试。关键在用Wrapper提供一个ProviderComponent
 
 ```
 npm install
